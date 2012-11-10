@@ -1,0 +1,117 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:Form1.cs" caret="1343" fromTop="0" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="12029" fromTop="199" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="1986" fromTop="15" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="1269" fromTop="11" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="6569" fromTop="27" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="5613" fromTop="13" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="5885" fromTop="12" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="6555" fromTop="29" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="6331" fromTop="23" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="7222" fromTop="16" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="7642" fromTop="33" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="7642" fromTop="26" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="7642" fromTop="13" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="7642" fromTop="21" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="6981" fromTop="4" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="13335" fromTop="9" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="14896" fromTop="33" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="14853" fromTop="21" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="14853" fromTop="25" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="14830" fromTop="28" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="13858" fromTop="7" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="13581" fromTop="3" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="14187" fromTop="12" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="14902" fromTop="14" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="8497" fromTop="17" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="8712" fromTop="19" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="7642" fromTop="1" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="7267" fromTop="14" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="6569" fromTop="8" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="1986" fromTop="0" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="2859" fromTop="11" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="1269" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="EnvironmentVariableTarget`0" priority="0" />
+      <Item value="SqlConnection`0" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="DataSet`0" priority="1" />
+      <Item value="connection" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="globDataSet" priority="3" />
+      <Item value="table" priority="3" />
+      <Item value="new" priority="1" />
+      <Item value="DataSet" priority="1" />
+      <Item value="command" priority="1" />
+      <Item value="tableName" priority="6" />
+      <Item value="Console`0" priority="0" />
+      <Item value="column" priority="1" />
+      <Item value="produs" priority="0" />
+      <Item value="index" priority="0" />
+      <Item value="pKeys" priority="1" />
+      <Item value="try" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="pk" priority="0" />
+      <Item value="for" priority="1" />
+      <Item value="int" priority="1" />
+      <Item value="i" priority="1" />
+      <Item value="ds" priority="2" />
+      <Item value="var" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="columns" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataSet">
+      <Item value="Tables" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Columns" priority="3" />
+      <Item value="Rows" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTableCollection">
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowCollection">
+      <Item value="Count" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumnCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumn">
+      <Item value="DataType" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

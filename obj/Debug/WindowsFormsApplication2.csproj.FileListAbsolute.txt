@@ -1,0 +1,16 @@
+C:\Users\sasha\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\sasha\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\sasha\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sasha\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\sasha\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\sasha\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\sasha\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\sasha\Documents\Visual Studio 2008\Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\sasha\Documents\Visual Studio 2008\Projects\WindowsFormsDisconected\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\sasha\Documents\Visual Studio 2008\Projects\WindowsFormsDisconected\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\sasha\Documents\Visual Studio 2008\Projects\WindowsFormsDisconected\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\sasha\Documents\Visual Studio 2008\Projects\WindowsFormsDisconected\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\sasha\Documents\Visual Studio 2008\Projects\WindowsFormsDisconected\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sasha\Documents\Visual Studio 2008\Projects\WindowsFormsDisconected\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\sasha\Documents\Visual Studio 2008\Projects\WindowsFormsDisconected\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\sasha\Documents\Visual Studio 2008\Projects\WindowsFormsDisconected\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

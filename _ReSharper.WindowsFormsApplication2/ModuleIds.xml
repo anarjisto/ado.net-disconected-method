@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="8C80BC22-B37C-438C-88D1-B71C38CD311C" ModuleId="WindowsFormsApplication2" />
+  <Module PersistentId="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Windows.Forms" />
+</Modules>

@@ -1,0 +1,250 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="try" priority="7" />
+      <Item value="string" priority="26" />
+      <Item value="reader" priority="17" />
+      <Item value="tableName" priority="22" />
+      <Item value="StorageResource`0" priority="7" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="nr" priority="0" />
+      <Item value="Console`0" priority="8" />
+      <Item value="e" priority="0" />
+      <Item value="columns" priority="4" />
+      <Item value="return" priority="4" />
+      <Item value="index" priority="4" />
+      <Item value="int" priority="11" />
+      <Item value="item" priority="2" />
+      <Item value="if" priority="3" />
+      <Item value="break" priority="2" />
+      <Item value="public" priority="3" />
+      <Item value="table" priority="1" />
+      <Item value="column" priority="4" />
+      <Item value="object" priority="1" />
+      <Item value="id" priority="0" />
+      <Item value="List" priority="7" />
+      <Item value="this" priority="0" />
+      <Item value="getNumberOfColumns`0" priority="0" />
+      <Item value="new" priority="8" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="for" priority="1" />
+      <Item value="i" priority="4" />
+      <Item value="count" priority="2" />
+      <Item value="values" priority="3" />
+      <Item value="var" priority="18" />
+      <Item value="getAllColumnNamesFromTable`0" priority="1" />
+      <Item value="pkComingValue" priority="1" />
+      <Item value="Dictionary" priority="4" />
+      <Item value="rezult" priority="3" />
+      <Item value="else" priority="1" />
+      <Item value="queryString" priority="2" />
+      <Item value="dict" priority="6" />
+      <Item value="null" priority="6" />
+      <Item value="instance" priority="0" />
+      <Item value="queryBody" priority="1" />
+      <Item value="key" priority="0" />
+      <Item value="pk" priority="4" />
+      <Item value="rezultList" priority="2" />
+      <Item value="foreach" priority="2" />
+      <Item value="k" priority="0" />
+      <Item value="getColumnTypesForTable`0" priority="0" />
+      <Item value="switch" priority="0" />
+      <Item value="dataTypeArray" priority="0" />
+      <Item value="case" priority="1" />
+      <Item value="cols" priority="1" />
+      <Item value="command" priority="5" />
+      <Item value="comboBox1" priority="1" />
+      <Item value="str" priority="2" />
+      <Item value="ValueType`0" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="columnNameList" priority="0" />
+      <Item value="textBox1" priority="0" />
+      <Item value="getColumntNameByIndexFromTable`0" priority="0" />
+      <Item value="columnNames" priority="0" />
+      <Item value="activeTableName" priority="4" />
+      <Item value="ctrl" priority="4" />
+      <Item value="activePk" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="value" priority="3" />
+      <Item value="dic" priority="2" />
+      <Item value="SqlDataReader`0" priority="1" />
+      <Item value="getPKColumnFromTable`0" priority="0" />
+      <Item value="List&lt;int&gt;" priority="0" />
+      <Item value="SqlCommand`0" priority="1" />
+      <Item value="connection" priority="1" />
+      <Item value="while" priority="1" />
+      <Item value="pKeys" priority="1" />
+      <Item value="array" priority="4" />
+      <Item value="activeId" priority="1" />
+      <Item value="updateTextBoxes`0" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="getAllPKFromTable`0" priority="0" />
+      <Item value="retunvalue" priority="1" />
+      <Item value="retval" priority="0" />
+      <Item value="SqlParameter" priority="0" />
+      <Item value="SqlDbType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@WindowsFormsApplication2.StorageResource">
+      <Item value="Instance" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WindowsFormsApplication2.StorageResource">
+      <Item value="getNumberOfColumns`0" priority="1" />
+      <Item value="getPKColumnFromTable`0" priority="1" />
+      <Item value="getAllColumnNamesFromTable`0" priority="0" />
+      <Item value="getRowValues`0" priority="0" />
+      <Item value="updateOrInsertRow`0" priority="0" />
+      <Item value="getAllPKFromTable`0" priority="0" />
+      <Item value="deleteRecordFromTableWithIndex`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="7" />
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="3" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="IndexOf`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="1" />
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Remove`0" priority="0" />
+      <Item value="Keys" priority="1" />
+      <Item value="Add`0" priority="0" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+KeyCollection">
+      <Item value="Count`1" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TypeCode">
+      <Item value="Int32" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Items" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox+ObjectCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Tag" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control">
+      <Item value="Tag" priority="1" />
+      <Item value="Enabled" priority="0" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataReader">
+      <Item value="Close`0" priority="5" />
+      <Item value="Read`0" priority="2" />
+      <Item value="GetSchemaTable`0" priority="1" />
+      <Item value="FieldCount" priority="0" />
+      <Item value="GetString`0" priority="0" />
+      <Item value="GetValue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="ExecuteScalar`0" priority="0" />
+      <Item value="ExecuteReader`0" priority="1" />
+      <Item value="ExecuteNonQuery`0" priority="0" />
+      <Item value="Parameters" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="TableName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.SqlDbType">
+      <Item value="Text" priority="4" />
+      <Item value="Int" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameter">
+      <Item value="Value" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.ParameterDirection">
+      <Item value="ReturnValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameterCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/d:Properties/f:Settings.Designer.cs" caret="0" fromTop="0" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/d:Properties/f:Resources.resx" caret="0" fromTop="0" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:Program.cs" caret="273" fromTop="11" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:Form1.cs" caret="123" fromTop="5" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="4693" fromTop="29" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="7462" fromTop="28" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="8435" fromTop="23" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="9967" fromTop="229" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:Form1.cs" caret="5517" fromTop="18" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:Form1.cs" caret="2158" fromTop="26" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="13232" fromTop="18" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:Form1.cs" caret="5948" fromTop="19" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:Form1.cs" caret="749" fromTop="13" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:Form1.cs" caret="5701" fromTop="11" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="5397" fromTop="10" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="5429" fromTop="12" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="6022" fromTop="29" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="6114" fromTop="11" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="7213" fromTop="11" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:Form1.cs" caret="629" fromTop="9" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="12591" fromTop="13" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="12609" fromTop="14" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="13064" fromTop="26" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="12999" fromTop="21" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="5268" fromTop="18" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="4707" fromTop="11" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:Form1.cs" caret="5282" fromTop="17" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="4804" fromTop="21" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="5203" fromTop="19" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="5202" fromTop="19" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="5118" fromTop="17" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="4677" fromTop="25" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="5287" fromTop="23" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:StorageResource.cs" caret="4668" fromTop="19" />
+      <File id="8C80BC22-B37C-438C-88D1-B71C38CD311C/f:Form1.cs" caret="2281" fromTop="33" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
